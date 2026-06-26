@@ -12,13 +12,7 @@ $$
 
 其中：
 
-* (
-
-$$
-\langle x^2(t) \rangle
-$$
-
-)：均方位移（Mean Square Displacement, MSD）
+* ($ langle x^2(t) \rangle $)：均方位移（Mean Square Displacement, MSD）
 * (D)：扩散系数
 * (t)：时间
 
