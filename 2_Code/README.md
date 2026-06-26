@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/PbwMKW4u)
 # 计算物理期末项目：基于蒙特卡洛方法的一维随机游走模拟与扩散规律验证
 
 ## 1. 项目简介
